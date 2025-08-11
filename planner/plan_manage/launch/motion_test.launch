@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="ego_planner" type="motion_test.py" name="motion_test" output="screen">
+    </node>
+</launch>
